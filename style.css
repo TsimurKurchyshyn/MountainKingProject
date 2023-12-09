@@ -1,0 +1,681 @@
+body{
+   width: 100%;
+}
+
+.q{
+    color: red;
+    background-color: red;
+}
+                                                  /*Block_1*/
+.Block_1{
+    height: 800px;
+    background-image: url("image/Block_1/MountainKIng.gif");
+    background-size: cover;
+}
+.Block_1_image_2\.png{
+    width: 200px;
+    height: 200px;
+}
+.text0{
+    font-family: 'Barlow', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 900;
+    color: whitesmoke;
+    margin-top: -50px;
+}
+.Mountain_King{
+    font-family: 'Crimson Text', serif;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    margin-top: -50px;
+}
+.text1{
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 15px;
+}
+.myButton {
+    box-shadow:inset 0px 1px 0px 0px #1bbacf;
+    background:linear-gradient(to bottom, #1bbacf 5%, #1bbacf 100%);
+    background-color:#1bbacf;
+    border-radius:3px;
+    border:1px solid #1bbacf;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #1bbacf;
+    margin-left: 640px;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #1bbacf 5%, #1bbacf 100%);
+    background-color:#1bbacf;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+.myButton2 {
+    box-shadow:inset 0px 1px 0px 0px #d42a69;
+    background:linear-gradient(to bottom, #d42a69 5%, #d42a69 100%);
+    background-color:#d42a69;
+    border-radius:3px;
+    border:1px solid #d42a69;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #d42a69;
+}
+.myButton2:hover {
+    background:linear-gradient(to bottom, #d42a69 5%, #d42a69 100%);
+    background-color:#d42a69;
+}
+.myButton2:active {
+    position:relative;
+    top:1px;
+}
+
+
+                                                   /*Block_2*/
+.Block_2 {
+    height: 500px;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    margin-left: 270px;
+
+}
+.img_1{
+    height: 150px;
+    width: 150px;
+    padding-top: 100px;
+}
+.text2{
+    color: #6c6c6c;
+    font-family: "Crimson Text";
+    font-size: 25px;
+}
+.text3{
+    color: #7d7d7d;
+    font-family: 'Lato', sans-serif;
+    line-height: 30px;
+}
+
+                                                     /*Block_3*/
+.Block_3{
+    height: 600px;
+    background-image: url("image/Block_3/WInterMountain.gif");
+    background-size: cover;
+}
+.Block_3_1{
+    width: 600px;
+    height: 600px;
+    background-color: rgba(167, 205, 255, 0.8);
+    opacity: 0.6;
+    margin-left: 750px;
+}
+.text1_Block3{
+    margin-left: 70px;
+    padding-top: 60px;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+.text2_Block3{
+    margin-left: 70px;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+.text3_Block3{
+    margin-left: 70px;
+    font-family: 'Roboto', sans-serif;
+color: white;
+}
+.table_block3{
+    border-spacing: 90px;
+}
+.square1{
+    border: 4px solid white;
+    height: 150px;
+    width: 150px;
+}
+.text4_block3{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 25px;
+}
+.text5_block3{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: xx-large;
+}
+                                                          /*Block_4*/
+.Block_4 {
+    height: 500px;
+    background-color: white;
+}
+.Block_4_text1{
+    margin-left: 100px;
+    color: #5a5a5a;
+    font-family: 'Roboto Slab', serif;
+}
+.Block_4_text2{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: #5a5a5a;
+    font-family: 'Roboto', sans-serif;
+}
+.Block_4_image{
+    width: 500px;
+    height: 350px;
+    margin-top: -300px;
+    margin-left: 800px;
+}
+.myButton3 {
+    box-shadow:inset 0px 1px 0px 0px #e3002a;
+    background:linear-gradient(to bottom, #e3002a 5%, #e3002a 100%);
+    background-color:#e3002a;
+    border:1px solid #e3002a;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    padding:12px 15px;
+    text-decoration:none;
+    margin-left: 100px;
+}
+.myButton3:hover {
+    background:linear-gradient(to bottom, #e3002a 5%, #e3002a 100%);
+    background-color:#e3002a;
+}
+.myButton3:active {
+    position:relative;
+    top:1px;
+}
+
+                                                          /*Block_5*/
+.Block_5{
+    height: 500px;
+    background-image: url("image/Block_5/Programming.gif");
+    background-size: cover;
+}
+.Block5_1{
+    width: 600px;
+    height: 500px;
+    background-color: rgba(107, 159, 224, 0.84);
+    opacity: 0.6;
+    margin-left: 150px;
+}
+.Block5_text1{
+    padding-top: 55px;
+    margin-left: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.Block5_text2{
+    margin-left: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.Block5_text3{
+    margin-left: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.Block5_text4{
+    margin-left: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+                                                       /*Block_6*/
+.Block_6{
+    height: 1700px;
+    background-color: #d2d2d2;
+}
+.Table6{
+    margin-left: 80px;
+    padding-top: 50px;
+}
+.Photo_1{
+    width: 975px;
+}
+.Photo_2{
+    height: 860px;
+}
+.Photo_3{
+    height: 790px;
+}
+.Photo_4{
+    width: 480px;
+    height: 380px;
+}
+.Photo_5{
+    width: 480px;
+    height: 380px;
+}
+.Photo_6{
+    width: 355px;
+    height: 725px;
+}
+.Photo_7{
+    width: 980px;
+    height: 325px;
+}
+.Photo:hover{
+    transform: scale(1.1);
+}
+img{
+    transition: 1s;
+}
+                                                        /*Block_7*/
+.Block_7{
+     height: 200px;
+     background-color: white;
+}
+.Block7_image{
+    margin-left: 50px;
+    margin-top: 35px;
+    width: 150px;
+    height: 150px;
+}
+.Block7_image7{
+    width: 200px;
+    height: 70px;
+    margin-bottom: 50px;
+}
+                                                         /*Block_8*/
+.Block_8{
+    height: 400px;
+    background-image: url("image/Block_8/MountainWalk.gif");
+    background-size: cover;
+}
+.B8_t1{
+    color: white;
+    font-family: "Roboto Slab";
+    padding-top: 50px;
+    padding-left: 75px;
+}
+.B8_t2{
+    color: #ffffff;
+    font-family: "Roboto";
+    padding-left: 75px;
+    line-height: 30px;
+}
+.form-control{
+    margin-left: 75px;
+    width: 300px;
+    height: 35px;
+}
+.myButton4 {
+    box-shadow:inset 0px 1px 0px 0px #ff0048;
+    background:linear-gradient(to bottom, #ff0048 5%, #ff0048 100%);
+    background-color:#ff0048;
+    border:1px solid #ff0048;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    font-weight:bold;
+    padding:10px 11px;
+    text-decoration:none;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+.myButton4:hover {
+    background:linear-gradient(to bottom, #ff0048 5%, #ff0048 100%);
+    background-color:#ff0048;
+}
+.myButton4:active {
+    position:relative;
+    top:1px;
+}
+                                                          /*Block_9*/
+.Block_9{
+     height: 225px;
+     background-color: #243344;
+}
+.B9_t1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    padding-left: 75px;
+}
+.B9_t2{
+    color: white;
+    font-family: Roboto;
+    margin-left: 25px;
+}
+.B9_Image1{
+    padding-left: 500px;
+visibility: hidden;
+}
+.B9_Image2{
+    padding-left: 500px;
+}
+                                                         /*LearnMore*/
+.HardSkills{
+    height: 700px;
+    background-image: url("image/Hardskill/cityNight.jpg");
+    background-size: 500px;
+    background-size: cover;
+}
+.T1H{
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+    margin-left: 200px;
+    padding-top: 200px;
+}
+.T2H{
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+    margin-left: 300px;
+}
+.myButton10 {
+    box-shadow:inset 0px 1px 0px 0px #cf595d;
+    background:linear-gradient(to bottom, #cf595d 5%, #cf595d 100%);
+    background-color:#cf595d;
+    border-radius:3px;
+    border:1px solid #cf595d;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:12px 25px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #cf595d;
+    margin-left: 320px;
+}
+.myButton10:hover {
+    background:linear-gradient(to bottom, #cf595d 5%, #cf595d 100%);
+    background-color:#cf595d;
+}
+.myButton10:active {
+    position:relative;
+    top:1px;
+}
+.IH{
+    width: 900px;
+    height: 600px;
+    margin-top: -400px;
+    margin-left: 600px;
+}
+                                                         /*Comments*/
+.Download{
+    height: 700px;
+    background-image: url("image/Comments/commentsbackground.jpg");
+    background-size: cover;
+}
+.myButton6 {
+    box-shadow:inset 0px 1px 0px 0px #101057;
+    background:linear-gradient(to bottom, #101057 5%, #101057 100%);
+    background-color:#101057;
+    border-radius:3px;
+    border:1px solid #101057;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    padding:15px 16px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #101057;
+    margin-left: 100px;
+}
+.myButton6:hover {
+    background:linear-gradient(to bottom, #101057 5%, #101057 100%);
+    background-color:#101057;
+}
+.myButton6:active {
+    position:relative;
+    top:1px;
+}
+.text1C{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.text2C{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 100px;
+}
+.slider {
+    width: 500px;
+    text-align: center;
+    margin-left: 100px;
+}
+.slides {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+}
+.slides > div {
+    scroll-snap-align: start;
+    flex-shrink: 0;
+    width: 500px;
+    height: 500px;
+    margin-right: 50px;
+    border-radius: 10px;
+    background: #eee;
+    transform-origin: center center;
+    transform: scale(1);
+    transition: transform 0.5s;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+.slider > a {
+    display: inline-flex;
+    width: 4.5rem;
+    height: 4.5rem;
+    background: white;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0 0 0.5rem 0;
+    position: relative;
+}
+.slider > a:active {
+    top: 1px;
+}
+.slider > a:focus {
+    background: #000;
+}
+.ImageC{
+    width: 50px;
+    height: 50px;
+}
+.ImageC2{
+    width: 500px;
+    height: 500px;
+}
+
+                                                         /*SubmitNewsletter*/
+.SubmitNewsetter{
+    height: 400px;
+    background-color: white;
+}
+.GifS{
+    width: 250px;
+    height: 200px;
+    margin-left: 635px;
+}
+.t1S{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.t2S{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.SubmitNewsetter2{
+    padding-top: 15px;
+    height: 300px;
+    background-color: #2d4150;
+}
+.t3S{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+.t4S{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.myButton7 {
+    box-shadow:inset 0px 1px 0px 0px #5d5d9e;
+    background:linear-gradient(to bottom, #5d5d9e 5%, #5d5d9e 100%);
+    background-color:#5d5d9e;
+    border:1px solid #5d5d9e;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    padding:8px 19px;
+    text-decoration:none;
+    margin-left: 650px;
+}
+.myButton7:hover {
+    background:linear-gradient(to bottom, #5d5d9e 5%, #5d5d9e 100%);
+    background-color:#5d5d9e;
+}
+.myButton7:active {
+    position:relative;
+    top:1px;
+}
+.myButton8 {
+    box-shadow:inset 0px 1px 0px 0px #c7c585;
+    background:linear-gradient(to bottom, #c7c585 5%, #c7c585 100%);
+    background-color:#c7c585;
+    border:1px solid #c7c585;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    padding:8px 14px;
+    text-decoration:none;
+
+}
+.myButton8:hover {
+    background:linear-gradient(to bottom, #c7c585 5%, #c7c585 100%);
+    background-color:#c7c585;
+}
+.myButton8:active {
+    position:relative;
+    top:1px;
+}
+
+                                                         /*TakeALook*/
+.TakeALook{
+    height: 300px;
+    background-image:url("image/TakeALookImage/photo_2023-02-25_18-02-41.jpg") ;
+    background-size: cover;
+}
+.t1T{
+text-align: center;
+    color: white;
+    font-family: 'Roboto' , sans-serif;
+}
+.t2T{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Roboto' , sans-serif;
+}
+.myButton5 {
+    box-shadow:inset 0px 1px 0px 0px #e6476c;
+    background:linear-gradient(to bottom, #e6476c 5%, #e6476c 100%);
+    background-color:#e6476c;
+    border-radius:3px;
+    border:1px solid #e6476c;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    padding:8px 32px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #e6476c;
+    margin-left: 685px;
+}
+.myButton5:hover {
+    background:linear-gradient(to bottom, #e6476c 5%, #e6476c 100%);
+    background-color:#e6476c;
+}
+.myButton5:active {
+    position:relative;
+    top:1px;
+}
+
+.Block2T{
+    height: 800px;
+}
+.I1TB{
+    width: 500px;
+    height: 300px;
+    margin-left: 250px;
+
+}
+.T1TT{
+    margin-left: 300px;
+    width: 400px;
+    height: 100px;
+    background-color: rgba(38,152,174,0.87);
+}
+.T2TT{
+    margin-left: 300px;
+    width: 400px;
+    height: 50px;
+    background-color: rgba(179, 60, 96, 0.87);
+}
+.T3TT{
+    margin-left: 300px;
+    width: 300px;
+    height: 50px;
+    background-color: rgba(93, 144, 79, 0.87);
+}
+.T4TT{
+    margin-left: 300px;
+    width: 300px;
+    height: 50px;
+    background-color: rgba(206, 166, 114, 0.87);
+}
+.T5TT{
+    margin-left: 300px;
+    width: 300px;
+    height: 50px;
+    background-color: rgba(186, 79, 79, 0.87);
+}
+.T6TT{
+    margin-left: 300px;
+    width: 300px;
+    height: 50px;
+    background-color: rgba(85, 59, 34, 0.87);
+}
+.TT{
+    text-align: center;
+    width: 100%;
+    border-spacing: 70px;
+}
+
